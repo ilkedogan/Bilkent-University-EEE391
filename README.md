@@ -4,8 +4,7 @@
 
 ***Project 1:  100***     
 ***Project 2:  100***       
-***Homework 1: 97***  
-***Homework 2: 99***  
+
 <br />
 ## ~ Project 1 ~
 ### Project Description
