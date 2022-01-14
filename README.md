@@ -5,7 +5,6 @@
 ***Project 1:  100***     
 ***Project 2:  100***       
 
-<br />
 ## ~ Project 1 ~
 ### Project Description
 Image signals and some image processing techniques are practised that can be found on report.   
